@@ -1,10 +1,10 @@
 ## EXP3 RPC（中间件-redis）
 
-![image-20220402144834324](img\image-20220402144834324.png)
+![(img\image-20220402144834324.png)](https://github.com/xylong-xd/Distributed-/blob/main/RPC-Redis/img/image-20220402144834324.png)
 
 ### redis 定义
 
-![image-20220402150147894](img\image-20220402150147894.png)
+![image-20220402150147894](https://github.com/xylong-xd/Distributed-/blob/main/RPC-Redis/img/image-20220402150147894.png)
 
 ### 建立redis服务器
 
@@ -12,11 +12,11 @@
 
 host:hadoop102     port:6379
 
-![image-20220402150436590](img\image-20220402150436590.png)
+![image-20220402150436590](https://github.com/xylong-xd/Distributed-/blob/main/RPC-Redis/img/image-20220402150436590.png)
 
 ### 编写程序代码
 
-![image-20220402150642429](img\image-20220402150642429.png)
+![image-20220402150642429](https://github.com/xylong-xd/Distributed-/blob/main/RPC-Redis/img/image-20220402150642429.png)
 
 添加maven依赖
 
@@ -211,7 +211,7 @@ public class Client {
 
 运行结果：
 
-![image-20220402151450871](img\image-20220402151450871.png)
+![image-20220402151450871](https://github.com/xylong-xd/Distributed-/blob/main/RPC-Redis/img/image-20220402151450871.png)
 
 #### queryByID
 
@@ -241,7 +241,7 @@ public class Client {
 
 结果：
 
-![image-20220402151642767](img\image-20220402151642767.png)
+![image-20220402151642767](https://github.com/xylong-xd/Distributed-/blob/main/RPC-Redis/img/image-20220402151642767.png)
 
 #### queryByName
 
@@ -275,7 +275,7 @@ public class Client {
 
 结果：
 
-![image-20220402151749181](img\image-20220402151749181.png)
+![image-20220402151749181](https://github.com/xylong-xd/Distributed-/blob/main/RPC-Redis/img/image-20220402151749181.png)
 
 #### delete
 
