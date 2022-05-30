@@ -151,35 +151,35 @@ console.log("running at http://127.0.0.1:1124");
 
 ### 3.1运行nginx
 
-![image-20220119160224459](img\image-20220119160224459.png)
+![image-20220119160224459](https://github.com/xylong-xd/Distributed-/blob/main/nginx/img/image-20220119160224459.png)
 
 权重比都为40
 
 ### 3.2 轮询
 
-![image-20220119160911681](img\image-20220119160911681.png)
+![image-20220119160911681](https://github.com/xylong-xd/Distributed-/blob/main/nginx/img/image-20220119160911681.png)
 
 
 
-![image-20220119160914501](img\image-20220119160914501.png)
+![image-20220119160914501](https://github.com/xylong-xd/Distributed-/blob/main/nginx/img/image-20220119160914501.png)
 
 
 
 
 
-![image-20220119160917091](img\image-20220119160917091.png)
+![[image-20220119160917091](https://github.com/xylong-xd/Distributed-/blob/main/nginx/img/image-20220119160917091.png)
 
 
 
-![image-20220119160920161](img\image-20220119160920161.png)
+[![image-20220119160920161](https://github.com/xylong-xd/Distributed-/blob/main/nginx/img/image-20220119160920161.png)
 
 ### 3.3 权重
 
-![image-20220119160934983](img\image-20220119160934983.png)
+![image-20220119160934983](https://github.com/xylong-xd/Distributed-/blob/main/nginx/img/image-20220119160934983.png)
 
 权重改为：40，30，20，10
 
-![image-20220119161004808](img\image-20220119161004808.png)
+![image-20220119161004808](https://github.com/xylong-xd/Distributed-/blob/main/nginx/img/image-20220119161004808.png)
 
 实验结束
 
