@@ -2,7 +2,7 @@
 
 ## 实验要求
 
-![image-20220530145815842](.\img\image-20220530145815842.png)
+[![image-20220530145815842](.\img\image-20220530145815842.png)](https://github.com/xylong-xd/Distributed-/blob/main/Kafka%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90/img/D088A313B5F6973ADA9102412AC6F390.png)
 
 
 
@@ -14,15 +14,15 @@
 
 ### 启动zookeeper
 
-![image-20220426095459270](img\image-20220426095459270.png)
+![image-20220426095459270](https://github.com/xylong-xd/Distributed-/blob/main/Kafka%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90/img/image-20220426095459270.png)
 
 ### 启动kafka
 
-![image-20220426095533301](img\image-20220426095533301.png)
+![image-20220426095533301](https://github.com/xylong-xd/Distributed-/blob/main/Kafka%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90/img/image-20220426095533301.png)
 
 ### 文件目录：
 
-![image-20220426095956910](img\image-20220426095956910.png)
+![image-20220426095956910](https://github.com/xylong-xd/Distributed-/blob/main/Kafka%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90/img/image-20220426095956910.png)
 
 ### 生产者创建（producer.java）
 
@@ -434,11 +434,11 @@ public class RealtimeChart {
 
 每100ms产生一个随机数字，并作为一个消息发布(topic：random)
 
-![image-20220426100335575](img\image-20220426100335575.png)
+![image-20220426100335575](https://github.com/xylong-xd/Distributed-/blob/main/Kafka%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90/img/image-20220426100335575.png)
 
 ### 启动统计分析微服务
 
-![image-20220426100600819](img\image-20220426100600819.png)
+![image-20220426100600819](https://github.com/xylong-xd/Distributed-/blob/main/Kafka%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90/img/image-20220426100600819.png)
 
 设置常量N为5
 
@@ -479,8 +479,8 @@ RealtimeChart chart = new RealtimeChart("Real-time Chart", "result", 500);
 
 
 
-![image-20220426101257539](img\image-20220426101257539.png)
+![image-20220426101257539](https://github.com/xylong-xd/Distributed-/blob/main/Kafka%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90/img/image-20220426101257539.png)
 
 实时接受  topic：res  的结果并打印
 
-![image-20220426101617769]([img\image-20220426101617769.png](img/D088A313B5F6973ADA9102412AC6F390.png))
+![image-20220426101617769](https://github.com/xylong-xd/Distributed-/blob/main/Kafka%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90/img/D088A313B5F6973ADA9102412AC6F390.png))
