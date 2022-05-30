@@ -483,4 +483,4 @@ RealtimeChart chart = new RealtimeChart("Real-time Chart", "result", 500);
 
 实时接受  topic：res  的结果并打印
 
-![image-20220426101617769](img\image-20220426101617769.png)
+![image-20220426101617769]([img\image-20220426101617769.png](https://github.com/xylong-xd/Distributed-/blob/main/Kafka%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90/img/D088A313B5F6973ADA9102412AC6F390.png))
