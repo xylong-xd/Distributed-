@@ -2,7 +2,7 @@
 
 ## 实验要求
 
-[![image-20220530145815842](.\img\image-20220530145815842.png)](https://github.com/xylong-xd/Distributed-/blob/main/Kafka%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90/img/D088A313B5F6973ADA9102412AC6F390.png)
+![image-20220530145815842](https://github.com/xylong-xd/Distributed-/blob/main/Kafka%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90/img/D088A313B5F6973ADA9102412AC6F390.png)
 
 
 
