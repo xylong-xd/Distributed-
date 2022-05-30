@@ -312,4 +312,4 @@ public class Client {
 
 结果：
 
-![image-20220402151951842](img\image-20220402151951842.png)
+![image-20220402151951842](https://github.com/xylong-xd/Distributed-/blob/main/RPC-Redis/img/image-20220402151951842.png)
